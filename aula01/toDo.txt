@@ -1,0 +1,4 @@
+-obter função
+-discretizar
+-testar teorema de shanon
+-simular super amostragem e sub amostragem
