@@ -54,3 +54,12 @@ zsa = xa(:,1)+zusa;
 figure,plot(t,zusa,'k--',t,zsa,'b--',t,zr), title('Posicoes')
 figure,plot(t,ya(:,2),'k--'), title('Aceleracao')
 
+%% Atividades
+%1
+Gc
+gczpk
+%2
+Gz
+
+%3
+TS
