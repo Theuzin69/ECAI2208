@@ -3,6 +3,8 @@
 -testar teorema de shanon
 
 -simular super amostragem e sub amostragem
+-routh hurwitz
+-criterio de jury
 
 colunas de B - entradas
 linhas de C - saídas
@@ -10,5 +12,6 @@ linhas de C - saídas
 (eq 2.17)
 entrada zr ponto
 saída segunda derivada de zs 
+
 
 
