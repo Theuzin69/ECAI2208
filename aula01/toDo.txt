@@ -6,3 +6,7 @@
 
 colunas de B - entradas
 linhas de C - saídas
+
+entrada zr ponto
+saída segunda derivada de zs
+
