@@ -1,4 +1,8 @@
 -obter função
 -discretizar
 -testar teorema de shanon
+
 -simular super amostragem e sub amostragem
+
+colunas de B - entradas
+linhas de C - saídas
